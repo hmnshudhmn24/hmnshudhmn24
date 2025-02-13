@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend development & API integrations**
 
-- 💬 Ask me about **Web Development, Game Development, API Integration, MySQL, Linux, Windows**
+- 💬 Ask me about **Web Development, API Integration, MySQL, Linux, Windows**
 
 - 📫 How to reach me **himanshu.dhiman2023@gmail.com**
 
