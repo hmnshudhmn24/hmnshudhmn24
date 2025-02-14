@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dhiman</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India.</h3>
 
 - 🔭 I’m currently working on **Building web-based browser games using HTML, CSS, and JavaScript**
 
