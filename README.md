@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dhiman</h1>
 <h3 align="center">An Aspiring Data Scientist from India.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+
 - 🔭 I’m currently working on **Building web-based browser games using HTML, CSS, and JavaScript**
 
 - 🌱 I'm currently learning **Full-Stack Development and Data Science**
