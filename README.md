@@ -7,15 +7,13 @@
 
 ## 🚀 About Me
 
-- 🔹 I’m currently working on **Building web-based browser games using HTML, CSS, and JavaScript**
-- 🔹 I'm currently learning **Full-Stack Development and Data Science**
-- 🔹 I’m looking to collaborate on **Open-source front-end development projects**
-- 🔹 I’m looking for help with **Backend development & API integrations**
-- 🔹 Ask me about **Web Development, API Integration, MySQL, Linux, Windows**
-- 💡 Fun fact: **I traded my gaming controller for a keyboard—now I debug more than I play! 🎮🖥️😅**
-
-## 🛠️ Languages and Tools
-
+### 🚀 About Me:
+- 🔹 I’m currently working on **Building web-based browser games using HTML, CSS, and JavaScript**  
+- 🔹 I'm currently learning **Full-Stack Development and Data Science**  
+- 🔹 I’m looking to collaborate on **Open-source front-end development projects**  
+- 🔹 I’m looking for help with **Backend development & API integrations**  
+- 🔹 Ask me about **Web Development, API Integration, MySQL, Linux, Windows**  
+- 💡 **Fun fact:** I traded my gaming controller for a keyboard
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -43,11 +41,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmnshudhmn24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmnshudhmn24&show_icons=true&locale=en" alt="GitHub Stats" />
