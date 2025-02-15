@@ -8,7 +8,6 @@
 - 🔹 I’m looking to collaborate on **Open-source front-end development projects**
 - 🔹 I’m looking for help with **Backend development & API integrations**
 - 🔹 Ask me about **Web Development, API Integration, MySQL, Linux, Windows**
-- 🔹 How to reach me: **himanshu.dhiman2023@gmail.com**
 - 💡 Fun fact: **I traded my gaming controller for a keyboard—now I debug more than I play! 🎮🖥️😅**
 
 <h3 align="left">Languages and Tools:</h3>
