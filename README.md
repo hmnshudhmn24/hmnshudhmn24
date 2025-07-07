@@ -14,7 +14,7 @@
 - 🤝 Looking for **mentorship in data engineering**  
 - 💬 Ask me about **Web Dev, Python, APIs, SQL, ML**  
 - 📫 Reach me at: **himanshu.dhiman2023@gmail.com**  
-- ⚡ Fun fact: *I swapped my gaming controller for a keyboard—now I debug more than I play!*
+- ⚡ Fun fact: **I traded my gaming controller for a keyboard—now I debug more than I play! 🎮💻😅**
 
 
 ## 🛠️ Skills & Tools
