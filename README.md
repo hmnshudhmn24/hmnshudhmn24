@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dhiman</h1>
-<h3 align="center">🚀 Aspiring Data Scientist & Full-Stack Developer from India</h3>
+<h3 align="center">🚀 Data Scientist & Full-Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00A550&width=435&lines=Passionate+about+Data+Science+%26+AI;Building+interactive+web+apps;Love+Python%2C+SQL%2C+ML+and+AI" alt="Typing SVG" />
