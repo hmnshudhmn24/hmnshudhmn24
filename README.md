@@ -46,6 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/>
 </p>
 
+[![An image of @hmnshudhmn24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmnshudhmn24)](https://holopin.io/@hmnshudhmn24)
 
 ## 📊 GitHub Stats
 
@@ -64,5 +65,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hmnshudhmn24&theme=flat&row=1&column=7"/>
 </p>
-
-[![An image of @hmnshudhmn24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmnshudhmn24)](https://holopin.io/@hmnshudhmn24)
