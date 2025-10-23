@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00A550&width=435&lines=Passionate+about+Data+Science+%26+AI;Building+interactive+web+apps;Love+Python%2C+SQL%2C+ML+and+AI" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 Currently working on **Data-driven Web Applications & ML projects**  
 - 🌱 Learning **Data Science, Backend Development, Cloud**  
