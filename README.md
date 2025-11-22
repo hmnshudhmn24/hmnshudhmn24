@@ -15,7 +15,7 @@
 - 📫 Reach me at: **himanshu.dhiman2023@gmail.com**  
 - ⚡ Fun fact: **My coffee-to-lines-of-code ratio is still under research**
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -46,11 +46,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/>
 </p>
 
----
+
 
 [![An image of @hmnshudhmn24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmnshudhmn24)](https://holopin.io/@hmnshudhmn24)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -63,7 +63,7 @@
   <img src="https://streak-stats.demolab.com?user=hmnshudhmn24&theme=default" width="500"/>
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 
