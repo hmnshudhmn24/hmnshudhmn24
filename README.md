@@ -50,7 +50,7 @@
 
 [![An image of @hmnshudhmn24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hmnshudhmn24)](https://holopin.io/@hmnshudhmn24)
 
-
+<a href="https://app.daily.dev/hmnshudhmn24"><img src="https://api.daily.dev/devcards/v2/zdkmmUlgX5aqMhv4fFsx6.png?type=wide&r=noj" width="652" alt="Himanshu Dhiman's Dev Card"/></a>
 
 ## 📊 GitHub Stats
 
