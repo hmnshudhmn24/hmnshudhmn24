@@ -12,8 +12,7 @@
 - 👯 I’m looking to collaborate on **open-source AI & full-stack projects**  
 - 🤝 Looking for **mentorship in data engineering**  
 - 💬 Ask me about **Web Dev, Python, APIs, SQL, ML**  
-- 📫 Reach me at: **himanshu.dhiman2023@gmail.com**  
-- ⚡ Fun fact: **My coffee-to-lines-of-code ratio is still under research**
+- 📫 Reach me at: **himanshu.dhiman2023@gmail.com**
 
 
 
